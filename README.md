@@ -17,4 +17,4 @@
 
 ### Hellow you!
 
-My name is Gregory, a 32 years old visual artist from Belgium. I'm working solo on my first video game Nosun since 2021. I'm interested in creating story-driven adventures.
+My name is Gregory, a 32 years old Belgian solo on my first video game Nosun since 2021. I'm interested in creating story-driven adventures.
