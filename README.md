@@ -4,7 +4,7 @@
       <a href="https://socel.net/@unlitcolor">
         <img src="https://img.shields.io/badge/Mastodon-darkslateblue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
       </a>
-      <a href="[your-youtube-URL](https://www.youtube.com/@UnlitColor)">
+      <a href="https://www.youtube.com/@UnlitColor">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
       <a href="https://twitter.com/unlitColor">
