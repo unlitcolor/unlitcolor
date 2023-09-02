@@ -17,4 +17,4 @@
 
 ### :man_technologist: About Me :
 
-My name is Gregory, a 32 years old indie game developer from Belgium. I'm working on my first video game Nosun since 2021. Everything is made by myself, including the graphics, coding and sound design. I'm interested in creating story-driven adventures.
+My name is Gregory, a 32 years old visual artist from Belgium. I'm working on my first video game Nosun since 2021. Everything is made by myself, including the graphics, coding and sound design. I'm interested in creating story-driven adventures.
