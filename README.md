@@ -17,8 +17,8 @@
 
 ### Hellow you!
 
-My name is Gregory, a 32 years old Belgian working on my first video game Nosun since 2021. I'm interested in creating story-driven adventures with hand-drawn graphics and frame by frame animations. On this Github, you will find some tools I created that may be useful for you.
+My name is Gregory, a 32 years old Belgian working on my first video game Nosun since 2021. I'm interested in creating story-driven adventures with hand-drawn graphics and frame by frame animations. On this Github, you will find some tools I created for my projects.
 
 ---
 ### 🔧Tools
-[Spritesheet Generator](https://spritesheet.neocities.org/) - Most available tools like this are very limited, you can just upload your sprites and they are randomly sorted, which is a problem when you have many images. This is why I created my own spritesheet generator. Your uploaded sprites are sorted by name from left to right and you can specify how many pics you want per row. I use it for my video game Nosun.
+[Spritesheet Generator](https://spritesheet.neocities.org/) - Most available tools like this are very limited, you can just upload your sprites and they are randomly sorted, which is a problem when you have many images. This is why I created my own spritesheet generator. Your uploaded sprites are sorted by name from left to right and you can specify how many pics you want per row.
