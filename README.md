@@ -21,4 +21,4 @@ My name is Gregory, a 32 years old Belgian working on my first video game Nosun 
 
 ---
 ### 🔧Tools
-[Spritesheet Generator](https://spritesheet.neocities.org/) - Most available tools like this are very limited, you can just upload your sprites and they are randomly sorted, which is a problem when you have many images. This is why I created my own spritesheet generator. Your uploaded sprites are sorted from left to right and you can specify how many pics you want per row.  
+[Spritesheet Generator](https://spritesheet.neocities.org/) - Most available tools like this are very limited, you can just upload your sprites and they are randomly sorted, which is a problem when you have many images. This is why I created my own spritesheet generator. Your uploaded sprites are sorted by name from left to right and you can specify how many pics you want per row.  
