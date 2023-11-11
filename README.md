@@ -17,7 +17,7 @@
 
 ### Hellow you!
 
-My name is Gregory, a 32 years old Belgian working on my first video game Nosun since 2021. I'm interested in creating story-driven adventures with hand-drawn graphics and frame by frame animations. On this Github, you will find some tools I created for my projects.
+I'm a game developer working on my own video game Nosun since 2021. I'm interested in creating story-driven adventures with hand-drawn graphics and frame by frame animations. On this Github, you will find some tools I created for my projects.
 
 ---
 ### 🔧Tools
