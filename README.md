@@ -17,7 +17,7 @@
 
 ### Hellow you!
 
-I'm a game developer working on my own video game Nosun, a 2.5D story-driven adventure where characters are in 3D, and the backgrounds are pre-rendered.
+I am a Belgian game developer making story-driven adventures and currently working on Nosun and SILICON.
 
 ---
 ### 🔧Tools
