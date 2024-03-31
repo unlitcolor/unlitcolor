@@ -17,8 +17,4 @@
 
 ### Hellow you!
 
-I am a Belgian game developer making story-driven adventures and currently working on Nosun and SILICON.
-
----
-### 🔧Tools
-[Spritesheet Generator](https://spritesheet.neocities.org/) - Most available tools like this are very limited, you can just upload your sprites and they are randomly sorted, which is a problem when you have many images. This is why I created my own spritesheet generator. Your uploaded sprites are sorted by name from left to right and you can specify how many pics you want per row.
+I am a Belgian game developer making story-driven adventures and currently working on Nosun.
