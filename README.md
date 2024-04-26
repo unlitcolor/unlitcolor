@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif"/>
     <div id="badges">
-      <a href="https://socel.net/@unlitcolor">
+      <a href="https://ohai.social/@unlitcolor">
         <img src="https://img.shields.io/badge/Mastodon-darkslateblue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
       </a>
       <a href="https://www.youtube.com/@UnlitColor">
